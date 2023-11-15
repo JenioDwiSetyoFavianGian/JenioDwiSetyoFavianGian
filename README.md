@@ -36,8 +36,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 <div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeniodwisetyofaviangian&show_icons=true&theme=tokyonight) 
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeniodwisetyofaviangian&show_icons=true&theme=tokyonight)
+</div>
+
+  <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
